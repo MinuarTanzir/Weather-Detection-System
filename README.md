@@ -1,2 +1,2 @@
 # Weather-Detection-System
-The code is incomplete.
+This code is incomplete.
